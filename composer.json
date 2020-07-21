@@ -1,0 +1,21 @@
+{
+    "name": "qbhy/hyperf-testing",
+    "description": "hyperf测试用例扩展包",
+    "authors": [
+        {
+            "name": "qbhy",
+            "email": "96qbhy@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Qbhy\\HyperfTesting\\": "src/"
+        }
+    },
+    "require-dev": {
+        "hyperf/testing": "^2.0"
+    }
+}
