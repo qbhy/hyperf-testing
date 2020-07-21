@@ -46,5 +46,8 @@ class DevTest extends HttpTestCase
 ```
 > 暂不支持 cookie 和 session 相关的断言！
 
+## 声明 - statement
+该包大量参考了 laravel 的代码。感谢 laravel 实现了那么好用的测试用例组件。
+
 https://github.com/qbhy/hyperf-testing  
 96qbhy@qq.com
